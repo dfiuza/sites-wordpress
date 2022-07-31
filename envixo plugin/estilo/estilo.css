@@ -1,0 +1,168 @@
+/* CSS Document */
+body {
+    /* Layout Properties */
+    font-family: 'Quicksand';    
+    top: 153px;
+    left: 231px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 6px #00000012;
+    border: 1px solid #DCDCDC;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.formulario {
+top: 633px;
+left: 288px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000012;
+border: 1px solid #DCDCDC;
+border-radius: 10px;
+opacity: 1;
+}
+
+.logo{    
+    top: 154px;
+    left: 232px;
+    /* width: 1663px;*/
+    height: 108px;
+    background: #214D96 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}     
+
+.centered {
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+.img{
+    left: 954px;
+    width: 175px;
+    height: 175px;
+    opacity: 1;
+    margin-top: -49px;
+    margin-bottom: -99px;
+    border-radius: 100%;
+}   
+
+.img-logo{
+    width: 149px;
+    height: 24px;     
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.dados{
+     margin-top: 150px;
+}
+
+input[type=text] {   
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+textarea {
+    top: 800px;
+    left: 288px;
+    width: 1573px;
+    height: 149px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D1D1D1;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+input[type=file]{
+    display: none;
+}
+
+input[type=submit]{
+    left: 288px;
+    width: 229px;
+    height: 55px;
+    margin-top: 79px;
+    text-align: center;
+    font: normal normal bold 18px/23px Quicksand;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #23C062 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer
+}
+
+/* Aparência que terá o seletor de arquivo */
+.round {
+    left: 954px;
+    width: 184px;
+    height: 184px;
+    margin-top: 78px !important;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 5px solid #E3E3E3;
+    opacity: 1;
+    border-radius: 100%;        
+}
+
+.circulo{
+    top: 349px;
+    left: 1092px;
+    width: 49px;
+    height: 49px;    
+    border-radius: 100%;
+    background: #DD1818 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.circulo .fa{
+    top: 352px;
+    left: 1109px;
+    width: 16px;
+    height: 40px;
+    margin-left: 24%;
+    margin-top: 17%;
+    font-size: 34px;
+    font: normal;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.btn{
+    width: 275px;
+    height: 55px;   
+    color: #fff;
+    margin: 150px 0 15px;
+    padding: 15px;
+    margin-left: -3rem;
+    background: #214D96 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 0px;  
+    font: normal normal bold 18px/23px Quicksand;    
+}
+
+.label-input{
+    top: 633px;
+    left: 288px;
+    width: 236px;
+    height: 23px;    
+    text-align: left;
+    font: normal normal bold 18px/23px Quicksand;
+    letter-spacing: 0px;
+    color: #3D3D3D;
+    opacity: 1;
+}
+
+
+

@@ -1,0 +1,26 @@
+/* CSS Document */
+.card{
+    width: auto;
+    background-color: #F1EEEE
+}
+
+.margin-botton{
+    margin-bottom: 80px;
+}
+
+.logo{    
+    margin-top: 7%;
+    margin-left: 1rem;
+}     
+
+.card-title {
+    color: #2D385D;
+}
+.top {
+    margin-top: -50px;
+}
+
+.card-text {
+    font-size: 15px;
+    color: #8E8F90
+}
