@@ -5,6 +5,8 @@
 
 <p>
 https://principiar.com.br/ <br>
+http://gardeniabridal.com.br/  <br>
+http://wakanabe.principiar.com.br/ <br>
 https://vhstudiohair.com.br/ <br>
 https://vestido-de-noiva.gardeniabridal.com.br/ <br>
 https://santaritareveste.com.br/ <br>
