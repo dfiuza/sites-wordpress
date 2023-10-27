@@ -1,6 +1,13 @@
 <h1> Meu novo projeto em andamento:<br>
-https://abcpararaios.com.br/novo/
+  https://abcpararaios.com.br/novo/  
 </h1>
+
+<h1>
+  https://allurefashion.com.br/loja/
+</h1> <br>
+<h1>
+  https://allurefashion.com.br/
+</h1> <br>
 
 
 <h1> Alguns sites que fiz durante minha jornada na Agencia</h1>
